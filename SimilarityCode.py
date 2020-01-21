@@ -137,7 +137,7 @@ def similarityGenerator(userName, DataDictName):
 
 ''' 
 The recommendations function generates recommendation on the basis of closest
-neighbour
+neighbour with pearsons correlation
 
 args: 
     userName(string) : Name of the user for whom similarity has to be found
